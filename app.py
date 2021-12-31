@@ -1,7 +1,8 @@
-from flask import Flask,request,jsonify,render_template
+from flask import Flask, render_template, request,jsonify
 import pickle
 import numpy as np
 import sklearn
+
 
 app=Flask(__name__)
 
