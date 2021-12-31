@@ -1,6 +1,0 @@
-flask
-numpy
-sklearn
-gunicorn
-scikit-learn==0.22.1
-cython==0.28.5
